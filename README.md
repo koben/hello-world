@@ -1,2 +1,4 @@
 # hello-world
-Hello World Project is a hello world project
+Hello World Project is a hello world project.
+
+Absolutely agree.
